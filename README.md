@@ -4,4 +4,4 @@
 
 Reference :
 1. NDCG :
-   a. http://sofasofa.io/forum_main_post.php?postid=1002561 
+   /http://sofasofa.io/forum_main_post.php?postid=1002561 
